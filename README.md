@@ -66,7 +66,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-#### Instalação [ARGON Dashboard Laravel] (https://www.creative-tim.com/product/argon-dashboard-laravel) com Docker
+## Instalação
+
+#### ARGON Dashboard Laravel (https://www.creative-tim.com/product/argon-dashboard-laravel) com Docker
 
 Execute o comando abaixo na pasta do projeto para baixar e executar os containers do Docker
 
